@@ -1,3 +1,15 @@
 body{
     font-family: 'AR One Sans', sans-serif;
 }
+.banner-container{
+    background-color: darkgray;
+}
+.education-container{
+    background-color: antiquewhite;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    background-color: #6C757D;
+    border-radius: 50%;
+}
